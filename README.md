@@ -28,7 +28,7 @@ Extracted the $128\text{-bit}$ `$pdf$` hash digest (`$pdf$4*4*128*-1060...`) and
 ### Step 2: Unlocking Document & Capturing Flag 1
 Successfully unlocked the target document using the recovered key `password1` to unveil the primary lab flag.
 
-![Flag 1 Captured](screenshots/flag1_captured.jpg)
+![Flag 1 Captured](screenshots/flag1_captured.png)
 
 **Flag Captured:** `nw{cybersecurity_flag_captured_2608}`
 
@@ -76,7 +76,7 @@ Recovered the target passphrase `good-luck` from the loaded PDF hash list.
 ### Step 5: Document Authentication & Capturing Flag 3
 Authenticated against the secured PDF using the JTR-recovered credentials to capture the persistence flag.
 
-![Flag 3 Captured](screenshots/flag3_captured.jpg)
+![Flag 3 Captured](screenshots/flag3_captured.png)
 
 **Flag Captured:** `nw{networkwalks_persistence_jtr_270521}`
 
